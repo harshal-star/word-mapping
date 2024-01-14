@@ -2,3 +2,4 @@ fasttext
 pandas
 streamlit
 nltk
+scipy
