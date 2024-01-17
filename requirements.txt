@@ -7,3 +7,4 @@ scipy
 compress_fasttext
 dotenv-python
 numpy
+scikit-learn
