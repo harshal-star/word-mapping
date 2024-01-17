@@ -2,4 +2,8 @@ fasttext
 pandas
 streamlit
 nltk
+smart_open
 scipy
+compress_fasttext
+dotenv-python
+numpy
