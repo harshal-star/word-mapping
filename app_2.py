@@ -17,8 +17,8 @@ import numpy as np
 load_dotenv()
 
 # Set these in your environment or in your code before calling smart_open
-os.environ['AWS_ACCESS_KEY_ID'] = os.getenv("AWS_ACCESS_KEY_ID")
-os.environ['AWS_SECRET_ACCESS_KEY'] = os.getenv("AWS_SECRET_ACCESS_KEY")
+os.environ['AWS_ACCESS_KEY_ID'] = st.secrets["AWS_ACCESS_KEY_ID"]
+os.environ['AWS_SECRET_ACCESS_KEY'] = st.secrets["AWS_SECRET_ACCESS_KEY"]
 
 # Streamlit page configuration
 st.set_page_config(layout="wide")
