@@ -2,7 +2,7 @@ fasttext
 pandas
 streamlit
 nltk
-smart_open
+smart_open[s3]
 scipy
 compress_fasttext
 python-dotenv
