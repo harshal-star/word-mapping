@@ -1,6 +1,5 @@
 import streamlit as st
 import fasttext
-import boto3
 from io import BytesIO
 from scipy import spatial
 import pandas as pd
