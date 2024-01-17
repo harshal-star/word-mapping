@@ -5,6 +5,6 @@ nltk
 smart_open
 scipy
 compress_fasttext
-dotenv-python
+python-dotenv
 numpy
 scikit-learn
